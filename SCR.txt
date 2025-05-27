@@ -1,0 +1,12 @@
+NXP Software Content Register
+
+Package: g2d-dpu
+Version: 2.4.0
+Outgoing License: LA_OPT_NXP_Software_License - No distribution permitted, license in Section 2.3 applies.
+License File: LICENSE.txt
+Package Category: Graphics
+Type of content: precompiled binary & header file
+Description and comments: NXP G2D-DPU library. It enables the 2D graphics engine for the i.MX95 DPU.
+Release Location: https://github.com/nxp-mcuxpresso/gpu-g2d-dpu
+Origin:
+      NXP (Proprietary)

@@ -1,0 +1,8 @@
+# Copyright 2024 NXP
+# SPDX-License-Identifier: BSD-3-Clause
+
+menu "g2d_dpu"
+    config MCUX_COMPONENT_middleware.g2d.cm7
+        bool "Component middleware.g2d.cm7"
+        depends on MCUX_HW_CORE_CM7 || MCUX_HW_CORE_CM7F
+endmenu
