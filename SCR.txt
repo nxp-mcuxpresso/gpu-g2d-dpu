@@ -2,7 +2,7 @@ NXP Software Content Register
 
 Package: g2d-dpu
 Version: 2.4.0
-Outgoing License: LA_OPT_NXP_Software_License - No distribution permitted, license in Section 2.3 applies.
+Outgoing License: LA_OPT_Online Code Hosting NXP_Software_License - v1.3 December 2024
 License File: LICENSE.txt
 Package Category: Graphics
 Type of content: precompiled binary & header file
