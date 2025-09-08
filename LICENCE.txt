@@ -1,4 +1,4 @@
-LA_OPT_Online Code Hosting NXP_Software_License - v1.3 December 2024
+LA_OPT_Online Code Hosting NXP_Software_License - v1.4 May 2025
 IMPORTANT.  Read the following NXP Online Code Hosting Software License
 Agreement (“Agreement”) completely. By selecting the “I Accept” button
 at the end of this page, or by downloading, installing, or using the Licensed
@@ -81,7 +81,7 @@ combination with a NXP Product;
 
 (c)	to manufacture (or have manufactured), distribute, and market object
 code of the Licensed Software (and its Derivative Works prepared under the
-license in 2.2(b)) only as part of, or embedded within, Authorized Systems and
+license in 2.1(b)) only as part of, or embedded within, Authorized Systems and
 not on a standalone basis;
 
 (d)	to copy and distribute as needed, solely in connection with an

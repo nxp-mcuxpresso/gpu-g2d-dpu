@@ -2,13 +2,13 @@
   "SPDXID": "SPDXRef-DOCUMENT",
   "spdxVersion": "SPDX-2.3",
   "creationInfo": {
-    "created": "2025-06-11T07:19:08Z",
+    "created": "2025-09-01T12:58:26Z",
     "creators": [
       "Organization: NXP"
     ],
     "licenseListVersion": "3.20"
   },
-  "name": "gpu-g2d-dpu-v25.06.00",
+  "name": "gpu-g2d-dpu-v25.09.00",
   "dataLicense": "CC0-1.0",
   "hasExtractedLicensingInfos": [
     {
@@ -22,12 +22,12 @@
       "name": "Basic Proprietary Commercial License"
     }
   ],
-  "documentNamespace": "https://nxp.com/spdx/00887710-3fb2-4016-9514-d42cab73ed3f",
+  "documentNamespace": "https://nxp.com/spdx/76fbd59c-5631-47c7-9910-d4d5b294420e",
   "packages": [
     {
-      "SPDXID": "SPDXRef-package-00887710-3fb2-4016-9514-d42cab73ed3f",
+      "SPDXID": "SPDXRef-package-76fbd59c-5631-47c7-9910-d4d5b294420e",
       "name": "gpu-g2d-dpu",
-      "versionInfo": "v25.06.00",
+      "versionInfo": "v25.09.00",
       "licenseConcluded": "(LicenseRef-3189476f-5b70-4a90-9c18-5da934503c05)",
       "licenseDeclared": "(LicenseRef-3189476f-5b70-4a90-9c18-5da934503c05)",
       "downloadLocation": "https://github.com/nxp-mcuxpresso/gpu-g2d-dpu",
@@ -42,21 +42,10 @@
       "versionInfo": "5.0.11.p4.1-hfp",
       "licenseConcluded": "LicenseRef-3eca8fb9-fca4-4b49-b4bd-189ba8efd691",
       "licenseDeclared": "LicenseRef-3eca8fb9-fca4-4b49-b4bd-189ba8efd691",
-      "downloadLocation": "http://mirrors.kernel.org/yocto/yocto/yocto/yocto-1.8/ipk/cortexa9hf-vfp-neon-mx6qdl",
-      "originator": "Organization: yocto",
+      "downloadLocation": "NOASSERTION",
+      "originator": "Organization: libg2d-dev",
       "supplier": "NOASSERTION",
-      "externalRefs": [
-        {
-          "referenceCategory": "OTHER",
-          "referenceLocator": "f396b95a-25df-4fc6-9877-72192c487e33",
-          "referenceType": "BlackDuck-ComponentOrigin"
-        },
-        {
-          "referenceCategory": "PACKAGE-MANAGER",
-          "referenceLocator": "pkg:yocto/libg2d-dev@5.0.11.p4.1-hfp-r0?arch=cortexa9hf-vfp-neon-mx6qdl&epoch=1",
-          "referenceType": "purl"
-        }
-      ],
+      "externalRefs": [],
       "filesAnalyzed": false
     }
   ],
@@ -64,11 +53,11 @@
     {
       "spdxElementId": "SPDXRef-DOCUMENT",
       "relationshipType": "DESCRIBES",
-      "relatedSpdxElement": "SPDXRef-package-00887710-3fb2-4016-9514-d42cab73ed3f"
+      "relatedSpdxElement": "SPDXRef-package-76fbd59c-5631-47c7-9910-d4d5b294420e"
     },
     {
-      "spdxElementId": "SPDXRef-package-00887710-3fb2-4016-9514-d42cab73ed3f",
-      "relationshipType": "CONTAINS",
+      "spdxElementId": "SPDXRef-package-76fbd59c-5631-47c7-9910-d4d5b294420e",
+      "relationshipType": "DYNAMIC_LINK",
       "relatedSpdxElement": "SPDXRef-package-f2e47c53-59d8-4ef7-b44b-3eaa3c95dbfa"
     }
   ]
